@@ -1,0 +1,10 @@
+.single-service h3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%; /* Ensures the text remains in a single line */
+}
+.single-service {
+    min-width: 280px; /* Adjust this value as needed */
+}
+
